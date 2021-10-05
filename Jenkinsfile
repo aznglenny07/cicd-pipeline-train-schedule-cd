@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@aznglenny07 
-aznglenny07
-/
-cicd-pipeline-train-schedule-cd
-Public
-forked from linuxacademy/cicd-pipeline-train-schedule-cd
-0
-03.4k
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-cicd-pipeline-train-schedule-cd/Jenkinsfile
-@aznglenny07
-aznglenny07 Update Jenkinsfile
-Latest commit 723db46 10 minutes ago
- History
- 2 contributors
-@whboyd@aznglenny07
-74 lines (74 sloc)  3.25 KB
-   
 pipeline {
     agent any
     stages {
